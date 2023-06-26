@@ -1,6 +1,6 @@
 # Tulio Sabino
 
-## Um pouco sobre mim
+## Um pouco sobre mim 👋
 
 Sempre trabalhei na área de tecnologia e mesmo nos periodos em que fiquei afastado, sempre fui apaixonado pela área, Formado em Sistemas para Internet, aprendi um pouco de programação, mas nunca me dediquei de verdade.
 
