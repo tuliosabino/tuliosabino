@@ -6,7 +6,9 @@ Sempre trabalhei na área de tecnologia e mesmo nos periodos em que fiquei afast
 
 
 
-Depois de me decepcionar na área bancária decidi voltar para a área de programação, mas dessa vez com tudo!
+Depois de me decepcionar na área bancária decidi voltar para a área de programação.
+
+Foco principal em python, muita automação e estudando Django, Django REST Framework e SQL.
 
 ## Contatos
 
