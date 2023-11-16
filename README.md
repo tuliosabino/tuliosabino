@@ -19,13 +19,13 @@ Foco principal em python, muita automação e estudando Django, Django REST Fram
 [![Whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534991462388)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuliosabinots@gmail.com)
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tuliosabino&show_icons=true&theme=dark)
-
 ## Contribuições
 
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=tuliosabino&theme=dark)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tuliosabino&show_icons=true&theme=dark)
 
 ## Linguagens de programação
 
